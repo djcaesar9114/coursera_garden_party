@@ -121,7 +121,7 @@ const handlePlantsClick = (e) => {
             <div className="tag">
                <div className="luxury">
                <img src="https://cdn.pixabay.com/photo/2020/08/05/13/12/eco-5465432_1280.png" alt="" />
-               <a href="/" style={{textDecoration:'none'}}>
+               <a href="/coursera_garden_party" style={{textDecoration:'none'}}>
                         <div>
                     <h3 style={{color:'white'}}>Coursera's Garden Party</h3>
                     <i style={{color:'white'}}>When you know how to code but not to grow plants</i>
